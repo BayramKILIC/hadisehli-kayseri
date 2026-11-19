@@ -1,0 +1,40 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/hakkimizda/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/alimlerin-sozleri-2/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/alimlerin-sozleri/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/iletisim/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/hadisler/",
+      "destination": "/category/yazilar/",
+      "permanent": true
+    },
+    {
+      "source": "/yazilar/",
+      "destination": "/category/yazilar/",
+      "permanent": true
+    },
+    {
+      "source": "/category/yazilar/:sub/",
+      "destination": "/category/:sub/",
+      "permanent": true
+    }
+  ]
+}
